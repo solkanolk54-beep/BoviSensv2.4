@@ -1,0 +1,6 @@
+{
+  "name": "BoviSens - نظام المراقبة الذكية للأبقار والماشية بالرؤية الحاسوبية",
+  "description": "منظومة متقدمة لرصد وتتبع قطعان الأبقار بالرؤية الحاسوبية (Computer Vision)، تتبع أرقام الأذن Tag IDs، قياس إنتاج الحليب اللحظي، كشف حالات الشبق والتلقيح الأمثل، التشخيص المبكر للعرج والأمراض، وخريطة مكانية تفاعلية للحظائر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
